@@ -1,12 +1,15 @@
 <!-- Profile Cover -->
 <div align="center">
-  <img width="100%" src="./profile-cover.svg" alt="cover" />
+  <img width="100%" height="500" src="matrix.gif" alt="Matrix Code Animation" style="object-fit: cover;"/>
+  <h1>Hi 👋, I'm Syed Mustaqhim</h1>
+  <p>Full Stack Developer | AI Engineer</p>
+  <p>📫 syedmustaqhim777@gmail.com</p>
 </div>
 
 <!-- About Me Section -->
 <h2 align="left">About Me 👨‍💻</h2>
 
-I'm a Full Stack Developer and AI/ML Engineer passionate about turning complex business problems into effective tech solutions. I specialize in building scalable applications and implementing AI solutions.
+I'm a Full Stack Developer and AI Engineer passionate about turning complex business problems into effective tech solutions. I specialize in building scalable applications and implementing AI solutions.
 
 <!-- Full Stack Development Section -->
 <h2 align="left">🚀 Full Stack Development</h2>
@@ -55,7 +58,7 @@ I'm a Full Stack Developer and AI/ML Engineer passionate about turning complex b
 </table>
 
 <!-- AI/ML Section -->
-<h2 align="left">🤖 Artificial Intelligence & Machine Learning</h2>
+<h2 align="left">Artificial Intelligence & Machine Learning</h2>
 
 <table>
   <tr>
@@ -83,7 +86,7 @@ I'm a Full Stack Developer and AI/ML Engineer passionate about turning complex b
 </table>
 
 <!-- Connect Section -->
-<h2 align="left">🌐 Connect with me</h2>
+<h2 align="left">Read my Medium blogs here</h2>
 
 <p align="left">
   <a href="https://medium.com/@syedmustaqhim777" target="_blank">
