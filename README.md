@@ -1,6 +1,6 @@
 <!-- Profile Cover -->
 <div align="center">
-  <img width="100%" height="500" src="matrix.gif" alt="Matrix Code Animation" style="object-fit: cover;"/>
+  <img width="100%" height="600" src="meteor.gif" alt="Matrix Code Animation" style="object-fit: cover;"/>
   <h1>Hi 👋, I'm Syed Mustaqhim</h1>
   <p>Full Stack Developer | AI Engineer</p>
   <p>📫 syedmustaqhim777@gmail.com</p>
